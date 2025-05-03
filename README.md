@@ -5,8 +5,6 @@
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++;Self-taught+Front-End+Developer,;Software+Development+Student,;Organized+Dev"></a>
 </p>
 
-<br>
-	
 <b>About Me 💻</b>
 
 <br>
@@ -58,8 +56,8 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/tomás-montoya-buitrago-8139a7291" target="_blank">
-<img src="https://img.shields.io/badge/linkedin; Tomas Montoya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/tom%C3%A1s-montoya-buitrago-8139a7291/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: Tomas Montoya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -69,7 +67,7 @@
 
 <li>
 <a href="mailto:tomasmontoyabuitrago@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail; tomasmontoyabuitrago@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: tomasmontoyabuitrago@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
