@@ -13,10 +13,16 @@
 - Currently learning Web Development by Self
 - English B1+
 - Studying Software Development at University
-- This is my [Portfolio]([https://www.0xabdulkhalid.ml](https://tomimontoyadev.github.io/PortafolioTomi/))
 - I’m currently open for an Intern or a new job opportunity
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<b>🌐 Portfolio <b>
 <br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://tomimontoyadev.github.io/PortafolioTomi/)
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
